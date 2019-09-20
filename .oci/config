@@ -1,0 +1,10 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaacafo76ilysr3ihem2kulusqm5qepjnxog54ljw34rgtj4mqcw4mq
+compartment-id=ocid1.compartment.oc1..aaaaaaaa4pnee64bsxicax4qjxya7nqf6c75pxcu2uohxrzw4uxdldas2wmq
+fingerprint=39:de:80:db:75:7c:02:88:e2:81:d3:1e:57:e9:12:63
+key_file=~/.oci/oci_api_key.pem
+tenancy=ocid1.tenancy.oc1..aaaaaaaafqdkb4ut2hgw3qygborwvk36w5dsvcreaiwza42fztizp5pweyja
+region=us-ashburn-1
+tennancyid=ocid1.tenancy.oc1..aaaaaaaafqdkb4ut2hgw3qygborwvk36w5dsvcreaiwza42fztizp5pweyja
+streamId=ocid1.stream.oc1.iad.aaaaaaaa67kmcfexyxngikmu5cixgwhiujg4dzffon2olgl4pyzieuqj6f7a
+streamEndpoint=https://api.cell-1.us-ashburn-1.streaming.oci.oraclecloud.com
