@@ -1,12 +1,10 @@
-##Intro
+## Intro
 This code base is an exploration in the Streams SDK in Java. The goal was to test API's and create a simple example for Java Developers. 
 
-##Producer Example
-Inside getCPU.java the code captures machine information about the host enviroments runtime statistics using OperatingSystemMXBean. 
-The information is then packaged into json through the javax.json libraries. Once packaged the code base becomes a producer and sends the data to the cloud. 
-The key will be the machine name, the value the json payload. Here is a short example video. 
+## Producer Example
+Inside getCPU.java the code captures machine information about the host enviroments runtime statistics using OperatingSystemMXBean. The information is then packaged into json through the javax.json libraries. Once packaged the code base becomes a producer and sends the data to the cloud. The key will be the machine name, the value the json payload. Here is a short example video. [You tube video](https://www.youtube.com/watch?v=n2lfH7MShj4&t=32s)
 
-##Getting Started: Steps to Leverage OCI Java SDK
+## Getting Started: Steps to Leverage OCI Java SDK
 - Download Full Java SDK, https://github.com/oracle/oci-java-sdk/releases. Extract to your local machine.
     
 - Open Intelj and create a new java project. Set the classpath to include the /lib  and /addons directories.
